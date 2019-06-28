@@ -11,11 +11,8 @@ public class Item {
 	private Integer id;
 	private String name;
 	private Integer number;
-<<<<<<< HEAD
-	
-	
+
 	//1111111
-=======
 //4678552	
->>>>>>> branch 'master' of https://github.com/hannieli6/my-repo.git
+
 }
